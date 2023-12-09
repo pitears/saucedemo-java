@@ -1,6 +1,6 @@
 # Saucedemo
 ## How to Execute
-To execute the entire test suite, just execute the following command:
+To run the entire test suite, just execute the following command:
 ```
 $ mvn test
 ```
