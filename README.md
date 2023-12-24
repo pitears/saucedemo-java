@@ -1,4 +1,4 @@
-# Saucedemo
+# Selenium Automation for Saucedemo Web
 ## How to Execute
 To run the entire test suite, just execute the following command:
 ```
